@@ -41,9 +41,7 @@ p {
 max-width: 100%;
   overflow-x: hidden;
 }
-#header {
-	
-}
+#header {}
 #navWrap {
 	height: 29px;
 }
